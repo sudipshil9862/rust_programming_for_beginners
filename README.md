@@ -55,7 +55,3 @@ or
 
 #### or directly build and run
 `cargo run`
-
-
-#### currenly studying:
-https://doc.rust-lang.org/book/print.html#references-and-borrowing
